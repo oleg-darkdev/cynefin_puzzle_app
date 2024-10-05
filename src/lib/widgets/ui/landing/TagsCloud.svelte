@@ -20,12 +20,12 @@
   <img src="/images/621524e92f2a226dfddb6227_SlangTagsBG_Right.jpg" loading="lazy" alt="" class="tags_right">
   <div class="tag_wrap">
     <div class="container c-tags">
-      <img src="/images/621524e92f2a220f82db61ec_Slang_final-16_SlangTags.png" loading="lazy" alt="" width="237" class="tag_scooter">
-      <img src="/images/621524e92f2a22c066db61e8_Slang_final-15_SlangTags.png" loading="lazy" alt="" width="180" class="tag_package">
-      <img src="/images/621524e92f2a228069db61e7_Slang_final-10_SlangTags.png" loading="lazy" alt="" width="229" class="tag_dining">
-      <img src="/images/621524e92f2a22e01fdb61ed_Slang_final-12_SlangTags.png" loading="lazy" alt="" width="296.5"  class="tag_shirts">
-      <img src="/images/621524e92f2a2210e8db61e9_Slang_final-14_SlangTags.png" loading="lazy" width="145" alt="" class="tag_app">
-      <img src="/images/621524e92f2a220620db61f1_Slang_final-11_SlangTags.png" loading="lazy" width="253" alt="" class="tag_building">
+      <img src="/images/slang_final-16_SlangTags.png" loading="lazy" alt="" width="237" class="tag_scooter">
+      <img src="/images/slang_final-15_SlangTags.png" loading="lazy" alt="" width="180" class="tag_package">
+      <img src="/images/slang_final-10_SlangTags.png" loading="lazy" alt="" width="229" class="tag_dining">
+      <img src="/images/slang_final-12_SlangTags.png" loading="lazy" alt="" width="296.5"  class="tag_shirts">
+      <img src="/images/slang_final-14_SlangTags.png" loading="lazy" width="145" alt="" class="tag_app">
+      <img src="/images/slang_final-11_SlangTags.png" loading="lazy" width="253" alt="" class="tag_building">
     </div>
   </div>
   <div class="container">

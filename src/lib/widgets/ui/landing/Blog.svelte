@@ -7,8 +7,8 @@
     <div class="width-max-700 center-text">
       <h1>The Blog</h1>
       <p class="margin-bottom-80">Learn more about CynefiPuzzle customer stores, industry trends, and more! </p>
-      <img src="images/621524e92f2a224b2edb61c7_Sparkle_pricing.svg" loading="lazy" alt="" class="blog-sparkle">
-      <img src="images/621524e92f2a22aa56db61c4_Cloud_texturepricingtier.svg" loading="lazy" alt="" class="blog-cloud">
+      <img src="images/sparkle_pricing.svg" loading="lazy" alt="" class="blog-sparkle">
+      <img src="images/cloud_texturepricingtier.svg" loading="lazy" alt="" class="blog-cloud">
     </div>
   </div>
 </section>
@@ -41,7 +41,7 @@
             </div>
           </div>
         </div>
-        <img src="images/621524e92f2a2271e1db615d_1638993653475-image19.jpg" loading="lazy" alt="" class="coverphoto cp_blog">
+        <img src="images/image19.jpg" loading="lazy" alt="" class="coverphoto cp_blog">
       </div>
     </div>
   </div>
@@ -54,7 +54,7 @@
         <div role="listitem" class="w-dyn-item">
           <div data-w-id="f48ce256-1d21-215f-f4ed-004c25d7c10a" class="c-blog-left-parent c-blog">
             <a href="/articles/" class="blogright w-inline-block">
-              <img src="images/621524e92f2a2271e1db615d_1638993653475-image19.jpg" loading="lazy" alt="" class="coverphoto">
+              <img src="images/image19.jpg" loading="lazy" alt="" class="coverphoto">
             </a>
             <div id="w-node-f48ce256-1d21-215f-f4ed-004c25d7c10d-96db613e" class="bloglist_content">
               <a href="/articles/" class="g-bloginfo w-inline-block">

@@ -19,7 +19,7 @@
           <div class="faq-child radius-24 shadow-smaller padding-32 w-dropdown">
             <div class="faq-question flex flex-row justify-between content-center items-center" on:click={()=> faq.showFaq = !faq.showFaq}>
               <!-- <div style="" class="  show-tablet is-faq-arrow">
-                <img src="images/61aa482275701e61cc56dbe8_DropdownDark.svg" loading="lazy" alt="">
+                <img src="images/dropdownDark.svg" loading="lazy" alt="">
               </div> -->
               <h5 class="faq-q-default margin-bottom-0 margin-top-0">{faq.q}? </h5>
               <div  class="h-16 w-16 flex items-center content-center   rounded-full complex-domain-bgColor" >

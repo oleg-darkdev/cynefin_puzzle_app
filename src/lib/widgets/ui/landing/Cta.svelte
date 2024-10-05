@@ -17,7 +17,7 @@
         </div>
       </div>
       <div class="cta-right">
-        <img src="/images/621524e92f2a22e1cadb623a_Slang%20Final%20CTA%20Comp.png" loading="lazy" alt="" sizes="(max-width: 767px) 83vw, (max-width: 991px) 383px, (max-width: 1439px) 27vw, 350px"  class="cta-photo">
+        <img src="/images/slang%20Final%20CTA%20Comp.png" loading="lazy" alt="" sizes="(max-width: 767px) 83vw, (max-width: 991px) 383px, (max-width: 1439px) 27vw, 350px"  class="cta-photo">
       </div>
     </div>
   </div>

@@ -2212,13 +2212,13 @@ blockquote {
 }
 .button.button--secondary.button--play {
   padding-left: 82px;
-  background-image: url("/images/621524e92f2a226d79db618d_HearItPlay.svg");
+  background-image: url("/images/hearItPlay.svg");
   background-position: 48px 50%;
   background-size: auto;
   background-repeat: no-repeat;
 }
 .button.button--secondary.button--play:hover {
-  background-image: url("/images/621524e92f2a22b22fdb618c_HearItPlayWhite.svg");
+  background-image: url("/images/hearItPlayWhite.svg");
 }
 .button.button--dark {
   background-color: transparent;
@@ -3624,7 +3624,7 @@ blockquote {
   -ms-flex-direction: row;
   flex-direction: row;
   background-color: transparent;
-  background-image: url("/images/621524e92f2a22c400db6176_LearnMoreArrow.svg");
+  background-image: url("/images/learnMoreArrow.svg");
   background-position: 97% 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -5852,7 +5852,7 @@ blockquote {
   height: 1.75ch;
   margin-bottom: -4px;
   margin-left: 18px;
-  background-image: url("/images/621524e92f2a223e98db61d9_AsteriskGreen.svg");
+  background-image: url("/images/asteriskGreen.svg");
   background-position: 50% 50%;
   background-size: 38px 38px;
   background-repeat: no-repeat;
@@ -6216,7 +6216,7 @@ blockquote {
   margin-bottom: 8px;
   padding-left: 32px;
   clear: left;
-  background-image: url("/images/621524e92f2a2257dedb622d_CheckPink.svg");
+  background-image: url("/images/checkPink.svg");
   background-position: 0 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -6227,7 +6227,7 @@ blockquote {
 .no-price {
   margin-bottom: 8px;
   padding-left: 32px;
-  background-image: url("/images/621524e92f2a221897db622e_No-Price.svg");
+  background-image: url("/images/no-Price.svg");
   background-position: 0 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -6238,7 +6238,7 @@ blockquote {
 .yes-dark {
   margin-bottom: 8px;
   padding-left: 32px;
-  background-image: url("/images/621524e92f2a22a88bdb6230_YesDark.svg");
+  background-image: url("/images/yesDark.svg");
   background-position: 0 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -6248,7 +6248,7 @@ blockquote {
 .yes-teal {
   margin-bottom: 8px;
   padding-left: 32px;
-  background-image: url("/images/621524e92f2a226673db622f_YesTeal.svg");
+  background-image: url("/images/yesTeal.svg");
   background-position: 0 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -6258,7 +6258,7 @@ blockquote {
 .yes-orange {
   margin-bottom: 8px;
   padding-left: 32px;
-  background-image: url("/images/621524e92f2a227419db6231_YesOrange.svg");
+  background-image: url("/images/yesOrange.svg");
   background-position: 0 50%;
   background-size: auto;
   background-repeat: no-repeat;

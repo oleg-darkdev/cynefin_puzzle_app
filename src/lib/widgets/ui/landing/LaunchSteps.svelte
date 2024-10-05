@@ -5,7 +5,7 @@
 <div class="grid-40 tablet-stack margin-bottom-160">
   <div>
     <div class="launch-mockup">
-      <img src="/images/621524e92f2a2263f9db6238_Launch%20Mockup%25402x.png" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 46vw, 620px" alt=""  class="launch-mockup-img">
+      <img src="/images/launch%20Mockup%25402x.png" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 46vw, 620px" alt=""  class="launch-mockup-img">
     </div>
   </div>
 

@@ -1,5 +1,5 @@
 <script>
-  
+
 </script>
 
 <div class="section padding-top-0 s-about-mission">
@@ -7,8 +7,8 @@
     <div class="grid-2column">
       <div id="w-node-ca0700c2-421b-2752-e214-83135764f4dc-c4db613d" class="callout--wrap">
         <div class="callout textcolor_green">Our Mission</div>
-        <img src="images/621524e92f2a2223dbdb61cf_Vector_about.svg" loading="lazy" alt="" class="about-asterisk">
-        <img src="images/621524e92f2a221d75db61d0_Cloud_about.svg" loading="lazy" alt="" class="about-cloud">
+        <img src="images/vector_about.svg" loading="lazy" alt="" class="about-asterisk">
+        <img src="images/cloud_about.svg" loading="lazy" alt="" class="about-cloud">
       </div>
       <div id="w-node-_04713ffc-6f95-7bdc-5b56-a4d7921ad677-c4db613d" class="width-max-620">
         <h2>Modern Voice Magic</h2>

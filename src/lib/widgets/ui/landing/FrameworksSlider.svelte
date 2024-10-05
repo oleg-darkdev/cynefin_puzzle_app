@@ -36,7 +36,7 @@
               <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c25-7cdb613c"></div>
               <div class="quote-author">
                 <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c27-7cdb613c" class="coverphoto-parent quote-avatar">
-                  <img src="/images/621524e92f2a22a805db615f_Screen%20Shot%202022-02-02%20at%2011.25.53%20AM.png" loading="lazy" alt="" class="coverphoto">
+                  <img src="" loading="lazy" alt="" class="coverphoto">
                 </div>
                 <p class="quote-author-name">Dustin @ Weimann Maclise </p>
               </div>
@@ -50,7 +50,7 @@
               <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c25-7cdb613c"></div>
               <div class="quote-author">
                 <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c27-7cdb613c" class="coverphoto-parent quote-avatar">
-                  <img src="/images/621524e92f2a22fc5bdb6162_Tony.png" loading="lazy" alt="" class="coverphoto">
+                  <img src="" loading="lazy" alt="" class="coverphoto">
                 </div>
                 <p class="quote-author-name">Tony Drockton, Founder @ Hammitt</p>
               </div>
@@ -64,7 +64,7 @@
               <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c25-7cdb613c"></div>
               <div class="quote-author">
                 <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c27-7cdb613c" class="coverphoto-parent quote-avatar">
-                  <img src="/images/621524e92f2a225b89db6161_Charlie.png" loading="lazy" alt="" class="coverphoto">
+                  <img src="" loading="lazy" alt="" class="coverphoto">
                 </div>
                 <p class="quote-author-name">Charlie, Director of Operations @ Crave Fishbar Group</p>
               </div>
@@ -78,7 +78,7 @@
               <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c25-7cdb613c"></div>
               <div class="quote-author">
                 <div id="w-node-be032a70-8548-bb62-351d-0c44e9088c27-7cdb613c" class="coverphoto-parent quote-avatar">
-                  <img src="/images/621524e92f2a227d16db6163_abraham.png" loading="lazy" alt="" class="coverphoto">
+                  <img src="" loading="lazy" alt="" class="coverphoto">
                 </div>
                 <p class="quote-author-name">Abraham Merchant, Founder @ Merchants Hospitality Group</p>
               </div>
@@ -98,7 +98,7 @@
             </div>
             <div id="w-node-_290279f0-5696-582d-ef2b-ef6908577d44-7cdb613c" class="quote-author">
               <div id="w-node-_630824fd-147f-0c10-f487-35cbc1f73b54-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a22a805db615f_Screen%20Shot%202022-02-02%20at%2011.25.53%20AM.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Dustin @ Weimann Maclise </p>
             </div>
@@ -109,7 +109,7 @@
             </div>
             <div id="w-node-_290279f0-5696-582d-ef2b-ef6908577d44-7cdb613c" class="quote-author">
               <div id="w-node-_630824fd-147f-0c10-f487-35cbc1f73b54-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a22fc5bdb6162_Tony.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Tony Drockton, Founder @ Hammitt</p>
             </div>
@@ -120,7 +120,7 @@
             </div>
             <div id="w-node-_290279f0-5696-582d-ef2b-ef6908577d44-7cdb613c" class="quote-author">
               <div id="w-node-_630824fd-147f-0c10-f487-35cbc1f73b54-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a225b89db6161_Charlie.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Charlie, Director of Operations @ Crave Fishbar Group</p>
             </div>
@@ -131,7 +131,7 @@
             </div>
             <div id="w-node-_290279f0-5696-582d-ef2b-ef6908577d44-7cdb613c" class="quote-author">
               <div id="w-node-_630824fd-147f-0c10-f487-35cbc1f73b54-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a227d16db6163_abraham.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Abraham Merchant, Founder @ Merchants Hospitality Group</p>
             </div>
@@ -147,7 +147,7 @@
             <div id="w-node-_9500dc7f-1709-c0e7-88d3-bbc7654a4ebe-7cdb613c"></div>
             <div class="quote-author">
               <div id="w-node-fb3d1755-aa09-616b-3a96-6ec45b35bf08-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a22a805db615f_Screen%20Shot%202022-02-02%20at%2011.25.53%20AM.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Dustin @ Weimann Maclise </p>
             </div>
@@ -159,7 +159,7 @@
             <div id="w-node-_9500dc7f-1709-c0e7-88d3-bbc7654a4ebe-7cdb613c"></div>
             <div class="quote-author">
               <div id="w-node-fb3d1755-aa09-616b-3a96-6ec45b35bf08-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a22fc5bdb6162_Tony.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Tony Drockton, Founder @ Hammitt</p>
             </div>
@@ -171,7 +171,7 @@
             <div id="w-node-_9500dc7f-1709-c0e7-88d3-bbc7654a4ebe-7cdb613c"></div>
             <div class="quote-author">
               <div id="w-node-fb3d1755-aa09-616b-3a96-6ec45b35bf08-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a225b89db6161_Charlie.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Charlie, Director of Operations @ Crave Fishbar Group</p>
             </div>
@@ -183,7 +183,7 @@
             <div id="w-node-_9500dc7f-1709-c0e7-88d3-bbc7654a4ebe-7cdb613c"></div>
             <div class="quote-author">
               <div id="w-node-fb3d1755-aa09-616b-3a96-6ec45b35bf08-7cdb613c" class="coverphoto-parent quote-avatar">
-                <img src="/images/621524e92f2a227d16db6163_abraham.png" loading="lazy" alt="" class="coverphoto">
+                <img src="" loading="lazy" alt="" class="coverphoto">
               </div>
               <p class="quote-author-name">Abraham Merchant, Founder @ Merchants Hospitality Group</p>
             </div>

@@ -142,14 +142,14 @@
 
         <div id="w-node-b16e074b-6acb-c41d-7ea4-3b5c8a8d1571-8a8d153d">
             <div class="margin-bottom-24">
-              <img src="images/621524e92f2a223e98db61d9_AsteriskGreen.svg" loading="lazy" alt="" class="footer-asterisk-form">
+              <img src="images/asteriskGreen.svg" loading="lazy" alt="" class="footer-asterisk-form">
               <h3 class="textcolor_white">Get the latest <span></span>
               </h3>
               <div class="w-form">
                 <form id="wf-form-Footer-Newsletter" name="wf-form-Footer-Newsletter" data-name="Footer Newsletter" method="get" class="footer-form" data-wf-page-id="621524e92f2a22257cdb613c" data-wf-element-id="b16e074b-6acb-c41d-7ea4-3b5c8a8d1579">
                   <input class="input-field w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Your email" type="email" id="email-2" required="">
                   <input type="submit" data-wait="Please wait..." id="w-node-b16e074b-6acb-c41d-7ea4-3b5c8a8d157b-8a8d153d" class="button button--submit w-button" value="Sign up">
-                  <img src="images/621524e92f2a227cc5db61da_StarYellow.svg" loading="lazy" alt="" class="footer-star">
+                  <img src="images/starYellow.svg" loading="lazy" alt="" class="footer-star">
                 </form>
                 <div class="success w-form-done">
                   <div>Your submission has been received!</div>

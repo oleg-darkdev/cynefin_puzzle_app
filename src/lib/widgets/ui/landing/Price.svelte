@@ -25,7 +25,7 @@
         <div role="listitem" class="w-dyn-item">
           <div class="price-wrap">
             <div style="color:hsla(0, 0.00%, 7.84%, 1.00);border-color:hsla(290.0719424460432, 100.00%, 72.75%, 1.00)" class="price-top">
-              <img src="images/621524e92f2a2233a5db6164_Starter_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
+              <img src="images/starter_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
               <div class="price">
                 <div id="w-node-_8f771d07-802f-7d4d-e359-c572b13f78fa-17db6148" style="display:none" class="monthly">
                   <h2 style="color:hsla(0, 0.00%, 7.84%, 1.00)" class="margin-bottom-0 h2-price">$199</h2>
@@ -105,7 +105,7 @@
         <div role="listitem" class="w-dyn-item">
           <div class="price-wrap">
             <div style="color:hsla(0, 0.00%, 7.84%, 1.00);border-color:hsla(40.70175438596491, 98.84%, 66.08%, 1.00)" class="price-top">
-              <img src="images/621524e92f2a227e53db6165_Growth_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
+              <img src="images/growth_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
               <div class="price">
                 <div id="w-node-_8f771d07-802f-7d4d-e359-c572b13f78fa-17db6148" style="display:none" class="monthly">
                   <h2 style="color:hsla(0, 0.00%, 7.84%, 1.00)" class="margin-bottom-0 h2-price">$299 </h2>
@@ -170,7 +170,7 @@
         <div role="listitem" class="w-dyn-item">
           <div class="price-wrap">
             <div style="color:hsla(0, 0.00%, 7.84%, 1.00);border-color:hsla(171.24087591240877, 70.26%, 61.76%, 1.00)" class="price-top">
-              <img src="images/621524e92f2a222830db6166_Rocket_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
+              <img src="images/rocket_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
               <div class="price">
                 <div id="w-node-_8f771d07-802f-7d4d-e359-c572b13f78fa-17db6148" style="display:none" class="monthly">
                   <h2 style="color:hsla(0, 0.00%, 7.84%, 1.00)" class="margin-bottom-0 h2-price">$599</h2>
@@ -229,7 +229,7 @@
         <div role="listitem" class="w-dyn-item">
           <div class="price-wrap">
             <div style="color:hsla(0, 0.00%, 7.84%, 1.00);border-color:hsla(0, 0.00%, 7.84%, 1.00)" class="price-top">
-              <img src="images/621524e92f2a22eec9db617d_Enterprise_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
+              <img src="images/enterprise_SlangPricing.png" loading="lazy" alt="" class="pricing_icon">
               <div class="price">
                 <div id="w-node-_8f771d07-802f-7d4d-e359-c572b13f78fa-17db6148" style="display:none" class="monthly">
                   <h2 style="color:hsla(0, 0.00%, 7.84%, 1.00)" class="margin-bottom-0 h2-price">-</h2>
@@ -284,9 +284,9 @@
       </div>
     </div>
   </div>
-  <img src="images/621524e92f2a226c15db624d_pricing-background%201.png" loading="lazy" alt="" sizes="100vw" srcset="images/621524e92f2a226c15db624d_pricing-background%25201-p-500.png 500w, images/621524e92f2a226c15db624d_pricing-background%25201-p-800.png 800w, images/621524e92f2a226c15db624d_pricing-background%25201-p-1080.png 1080w, images/621524e92f2a226c15db624d_pricing-background%25201-p-1600.png 1600w, images/621524e92f2a226c15db624d_pricing-background%25201-p-2000.png 2000w, images/621524e92f2a226c15db624d_pricing-background%25201-p-2600.png 2600w, images/621524e92f2a226c15db624d_pricing-background%201.png 2880w" class="coverphoto hide-tablet">
-  <img src="images/621524e92f2a22c4c9db624e_PricingTopMobile.png" loading="lazy" alt="" sizes="100vw" srcset="images/621524e92f2a22c4c9db624e_PricingTopMobile-p-500.png 500w, images/621524e92f2a22c4c9db624e_PricingTopMobile-p-800.png 800w, images/621524e92f2a22c4c9db624e_PricingTopMobile-p-1080.png 1080w, images/621524e92f2a22c4c9db624e_PricingTopMobile-p-1600.png 1600w, images/621524e92f2a22c4c9db624e_PricingTopMobile-p-2000.png 2000w, images/621524e92f2a22c4c9db624e_PricingTopMobile-p-2600.png 2600w, images/621524e92f2a22c4c9db624e_PricingTopMobile.png 2880w" class="pricing-top-mobile">
-  <img src="images/621524e92f2a22e3b7db624f_PricingBottomMobile.png" loading="lazy" alt="" sizes="100vw" srcset="images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-500.png 500w, images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-800.png 800w, images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-1080.png 1080w, images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-1600.png 1600w, images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-2000.png 2000w, images/621524e92f2a22e3b7db624f_PricingBottomMobile-p-2600.png 2600w, images/621524e92f2a22e3b7db624f_PricingBottomMobile.png 2880w" class="pricing-bot-mobile">
+  <img src="images/pricing-background%201.png" loading="lazy" alt="" sizes="100vw"  class="coverphoto hide-tablet">
+  <img src="images/pricingTopMobile.png" loading="lazy" alt="" sizes="100vw"  class="pricing-top-mobile">
+  <img src="images/pricingBottomMobile.png" loading="lazy" alt="" sizes="100vw"  class="pricing-bot-mobile">
 </section>
 
 

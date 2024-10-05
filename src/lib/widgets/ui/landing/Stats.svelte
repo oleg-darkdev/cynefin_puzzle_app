@@ -24,7 +24,7 @@
 <div class="grid-40 tablet-stack">
   <div >
     <div>
-      <img src="/images/621524e92f2a22990fdb6235_Monitor%20Mockup%25402x.png" loading="lazy" alt="" width="661"  class="monitor_mockup">
+      <img src="/images/monitor%20Mockup%25402x.png" loading="lazy" alt="" width="661"  class="monitor_mockup">
     </div>
   </div>
 
