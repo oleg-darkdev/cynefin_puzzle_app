@@ -1,4 +1,30 @@
-// import BoardgameSection from './ui/landing/BoardgameSection.svelte';
+import Footer from './ui/landing/Footer.svelte';
+import Hero from './ui/landing/Hero.svelte';
+import Header from './ui/landing/Header.svelte';
+import PartnersLogos from './ui/landing/PartnersLogos.svelte';
+import Cta from './ui/landing/Cta.svelte';
+import TagsCloud from './ui/landing/TagsCloud.svelte';
+import Features from './ui/landing/Features.svelte';
+import HowItWork from './ui/landing/HowItWork.svelte';
+import LaunchSteps from './ui/landing/LaunchSteps.svelte';
+import AboutDomain from './ui/landing/AboutDomain.svelte';
+import Stats from './ui/landing/Stats.svelte';
+import Testimonials from './ui/landing/Testimonials.svelte';
+import FrameworksTable from './ui/landing/FrameworksTable.svelte';
+import Blog from './ui/landing/Blog.svelte';
+import Price from './ui/landing/Price.svelte';
+import FrameworksSlider from './ui/landing/FrameworksSlider.svelte';
+import PricingCta from './ui/landing/PricingCta.svelte';
+import Faq from './ui/landing/Faq.svelte';
+import AboutOtherGames from './ui/landing/AboutOtherGames.svelte';
+import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+import AboutValues from './ui/landing/AboutValues.svelte';
+import ContactForSales from './ui/landing/ContactForSales.svelte';
+// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 
 
-// export {  };
+export { Footer, Hero, Header, ContactForSales, AboutOtherGames, AboutAuthor, AboutValues, PartnersLogos, Cta, TagsCloud, Faq, PricingCta, FrameworksSlider, Features, HowItWork, LaunchSteps, AboutDomain, Stats, Testimonials, FrameworksTable, Blog, Price, };
