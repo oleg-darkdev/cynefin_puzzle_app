@@ -7,7 +7,7 @@
 
 
 <svelte:head>
-  <title>Cynefine game</title>
+  <title>CynefiPuzzle game</title>
 </svelte:head>
 
 
