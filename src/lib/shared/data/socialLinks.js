@@ -1,19 +1,19 @@
 const socialLinks = [
   {
     title: 'LinkedIn.',
-    icon: '',
+    icon: '/images/linkedin-logo-purple.svg',
     link: '/'
   },
   {
     title: 'Facebook.',
-    icon: '',
+    icon: '/images/facebook2021-purple.svg',
     link: '/'
   },
-  {
-    title: 'Telegram.',
-    icon: '',
-    link: '/'
-  },
+  // {
+  //   title: 'Telegram.',
+  //   icon: '',
+  //   link: '/'
+  // },
 ]
 
 
