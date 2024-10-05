@@ -11,7 +11,7 @@ import AboutDomain from './ui/landing/AboutDomain.svelte';
 import Stats from './ui/landing/Stats.svelte';
 import Testimonials from './ui/landing/Testimonials.svelte';
 import FrameworksTable from './ui/landing/FrameworksTable.svelte';
-import Blog from './ui/landing/Blog.svelte';
+import Articles from './ui/landing/Articles.svelte';
 import Price from './ui/landing/Price.svelte';
 import FrameworksSlider from './ui/landing/FrameworksSlider.svelte';
 import PricingCta from './ui/landing/PricingCta.svelte';
@@ -20,11 +20,11 @@ import AboutOtherGames from './ui/landing/AboutOtherGames.svelte';
 import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 import AboutValues from './ui/landing/AboutValues.svelte';
 import ContactForSales from './ui/landing/ContactForSales.svelte';
-// import AboutAuthor from './ui/landing/AboutAuthor.svelte';
+import ArticlesDivider from './ui/landing/ArticlesDivider.svelte';
 // import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 // import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 // import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 // import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 
 
-export { Footer, Hero, Header, ContactForSales, AboutOtherGames, AboutAuthor, AboutValues, PartnersLogos, Cta, TagsCloud, Faq, PricingCta, FrameworksSlider, Features, HowItWork, LaunchSteps, AboutDomain, Stats, Testimonials, FrameworksTable, Blog, Price, };
+export { Footer, Hero, Header, ContactForSales, ArticlesDivider, AboutOtherGames, AboutAuthor, AboutValues, PartnersLogos, Cta, TagsCloud, Faq, PricingCta, FrameworksSlider, Features, HowItWork, LaunchSteps, AboutDomain, Stats, Testimonials, FrameworksTable, Articles, Price, };
