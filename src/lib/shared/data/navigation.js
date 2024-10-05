@@ -17,7 +17,7 @@ const navigation = [
   },
   {
     title: 'Статьи',
-    link: '#blog'
+    link: '#articles'
   },
 // how-to-start
 ];
