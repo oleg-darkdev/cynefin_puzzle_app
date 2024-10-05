@@ -16,12 +16,16 @@
   <div id="pagehead" class="container c-center_content">
     <div class="width-max-700 center-text">
       <h1>About</h1>
-      <p class="margin-bottom-24 about_subtext">We're on a mission to transform the experience of calling a business into one thats personalized, efficient, and delightful. <br>
-        <br>Before Slang, we developed products that have reached hundreds of millions of users while at companies like Spotify, Google, New York Times, Buzzfeed and more. <br>
-        <br>Sound like something you want to be a part of?�&nbsp;Join us.
+      <p class="margin-bottom-24 about_subtext">
+        We're on a mission to transform the experience of calling a business into one thats personalized, efficient, and delightful.
+        <br>
+        <br>
+        Before Slang, we developed products that have reached hundreds of millions of users while at companies like Spotify, Google, New York Times, Buzzfeed and more. <br>
+        <br>
+        Sound like something you want to be a part of?�&nbsp;Join us.
       </p>
       <div class="button--wrap button--wrap_center">
-        <a href="#jobs" class="button w-button">See open roles</a>
+        <a href="/" class="button w-button">See open roles</a>
       </div>
     </div>
   </div>

@@ -32,7 +32,8 @@
       {#each domainData.favoriteTools as tool}
         <div class="flex flex-row px-6 h-12 mb-10">
           <img src="/images/starBullet.svg" loading="lazy" class='my-auto mr-6 h-8' alt="">
-          <a href='/app/{tool.id}' target="_blank" class=" flex flex-row   no-underline icon_text learnmore-button">
+          <!-- /{tool.id} -->
+          <a href='/app' target="_blank" class=" flex flex-row   no-underline icon_text learnmore-button">
             <h3 class='my-auto'><span class='{domainData.brandColorText}'>{tool.abbr}</span> {tool.title}</h3>
           </a>
         </div>
@@ -58,7 +59,7 @@
       </div>
     </div>
   </div>
-  
+
     <div class="ascend-mockup w-full ">
       <img src={domainData.promoImg} loading="lazy" alt="{domainData.title} promo image." width="655"  class="ascend-mockup-img">
     </div>

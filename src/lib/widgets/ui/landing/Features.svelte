@@ -4,7 +4,7 @@
 
 <div class="section">
   <div class="container">
-    <div id='features' class="c-center_content">
+    <div id='about' class="c-center_content">
       <h2 class="margin-bottom-80">Lorem Ipsum is + simply dummy text = of the printing </h2>
     </div>
     <div class="grid-40">
