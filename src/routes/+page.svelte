@@ -1,6 +1,6 @@
 <script>
 	import { cynefinDomains } from '$lib/shared';
-	import { Footer, Hero, FrameworksSlider, Header, ContactForSales, AboutAuthor, AboutValues, PricingCta, Faq, FrameworksTable, PartnersLogos, AboutOtherGames, Blog, Testimonials, Price, AboutDomain, Stats, Cta, TagsCloud, HowItWork, Features, LaunchSteps} from '$lib/widgets';
+	import { Footer, Hero, ArticlesDivider, FrameworksSlider, Header, ContactForSales, AboutAuthor, AboutValues, PricingCta, Faq, FrameworksTable, PartnersLogos, AboutOtherGames, Articles, Testimonials, Price, AboutDomain, Stats, Cta, TagsCloud, HowItWork, Features, LaunchSteps} from '$lib/widgets';
 
   // import {  } from '$lib/entities'
 </script>
@@ -58,7 +58,9 @@
 
 <Cta />
 
-<Blog />
+<ArticlesDivider />
+
+<Articles />
 
 <Footer />
 
