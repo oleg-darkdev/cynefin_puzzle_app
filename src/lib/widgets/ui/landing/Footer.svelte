@@ -4,10 +4,10 @@
 
 <section class="section s-footer">
   <div class="container">
-    <div class="flex flex-row flex-wrap w-full max-w-5xl mx-auto justify-between">
+    <div class="flex flex-row flex-wrap-reverse w-full max-w-5xl mx-auto justify-between">
       <div class='mb-12'>
         <div class="margin-bottom-24">
-        <h3 class="textcolor_white">Domains.</h3>
+        <h3 class="chaos-domain-textColor">Domains.</h3>
         </div>
         <div class="footer-links">
           {#each cynefinDomains.all as {domain}}
@@ -19,9 +19,9 @@
         </div>
       </div>
 
-      <div class=''>
+      <div class='mb-12'>
         <div class="margin-bottom-24">
-        <h3 class="textcolor_white">Articles.</h3>
+        <h3 class="chaos-domain-textColor">Articles.</h3>
         </div>
         <div class="footer-links max-w-md">
           {#each articles as {title, link}}
@@ -34,14 +34,13 @@
       </div>
 
 
-      <div>
-          <div class="footer-logo mt-16">
+      <div class='mb-14'>
+        <a href='/app' target="_blank" class="button button--submit w-button -mb-10" >
+          Начать игру!
+        </a>
+        <div class="footer-logo mt-16">
           <img src="/images/logo_light.svg" loading="lazy" alt="" height="48">
         </div>
-
-        <!-- <div class="margin-bottom-24">
-          <h3 class="textcolor_white">Follow us</h3>
-        </div> -->
         <div class="flex flex-row">
           {#each socialLinks as {icon, title, link}}
             <a href="{link}" target="_blank" class="footer-link mr-4 footer-link-social w-inline-block">
