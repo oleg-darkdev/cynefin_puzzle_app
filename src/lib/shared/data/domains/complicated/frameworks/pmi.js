@@ -13,7 +13,7 @@ const frameworkDescription = {
   },
   cynefinDomain: '#complicated',
   type: '#framework',
-  title: 'Project Management Institute Frameworks.',
+  title: 'Project Management Institute.',
   abbr: `PMI `,
   shortDesc: 'PMI предлагает множество фреймворков для управления сложными проектами, включая методы анализа задач, оценки рисков и управления ресурсами.',
   examples: [{title: 'управление крупными ИТ-проектами', link: '/'}, {title: 'управление инженерными проектами', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
