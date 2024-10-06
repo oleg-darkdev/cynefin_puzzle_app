@@ -16,4 +16,10 @@ const domains = {
   chaotic
 }
 
-export default domains;
+const promoToolsSet = [
+  simple.favoriteTools[0],
+  // complicated.favoriteTools[0],
+  // complex.favoriteTools[0],
+  // chaotic.favoriteTools[0],
+]
+export {domains, promoToolsSet};

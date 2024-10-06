@@ -22,7 +22,7 @@ const practiceDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'disorder-domain-textColor', brandColorBg: 'disorder-domain-textColor',
+  background: {}, brandColorText: 'disorder-domain-bgColor', brandColorBg: 'disorder-domain-bgColor',
 
 };
 

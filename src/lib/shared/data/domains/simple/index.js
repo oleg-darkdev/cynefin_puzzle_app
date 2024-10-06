@@ -40,7 +40,7 @@ const simpleDomain = {
     '',
   ],
   brandColorText: 'simple-domain-textColor',
-  brandColorBg: 'simple-domain-textColor',
+  brandColorBg: 'simple-domain-bgColor',
   align: 'l',
   promoImg: '/images/domains/sipmle_promoImg.svg',
   id: 0,
