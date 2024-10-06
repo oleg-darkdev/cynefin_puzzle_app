@@ -2,7 +2,7 @@
 import navigation from './data/navigation';
 import partners from './data/partners';
 import features from './data/features';
-import cynefinDomains from './data/domains/';
+import {domains as cynefinDomains, promoToolsSet} from './data/domains/';
 import socialLinks from './data/socialLinks';
 import faqData from './data/faqData';
 import articles from './data/articles';
@@ -13,7 +13,8 @@ import articles from './data/articles';
 
 // ui
 import TagLink from './ui/TagLink.svelte';
-// import faqData from './data/faqData';
+import Input from './ui/Input.svelte';
+// import Input from './ui/Input.svelte';
 
 
-export { navigation, partners, features, cynefinDomains, socialLinks, faqData, articles, TagLink};
+export { navigation, partners, Input, features, cynefinDomains, promoToolsSet, socialLinks, faqData, articles, TagLink};
