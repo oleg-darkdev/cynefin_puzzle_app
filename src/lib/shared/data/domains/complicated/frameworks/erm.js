@@ -6,15 +6,15 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Enterprise_risk_management`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complicated',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'Enterprise risk management.',
+  abbr: `E.R.M.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,8 +22,10 @@ const frameworkDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complicated-domain-textColor', brandColorBg: 'complicated-domain-textColor',
+  background: {}, brandColorText: 'complicated-domain-textColor', brandColorBg: 'complicated-domain-bgColor',
 };
+
+
 
 
 export default frameworkDescription

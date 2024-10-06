@@ -8,13 +8,13 @@ const frameworkDescription = {
       ru: ``,
       en: ``
     },
-    offisialSiteLink: `/`,
+    offisialSiteLink: `https://csrc.nist.gov/Projects/risk-management/about-rmf`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complicated',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'NIST Risk Management Framework.',
+  abbr: `N.R.M.F.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,8 +22,9 @@ const frameworkDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complicated-domain-textColor', brandColorBg: 'complicated-domain-textColor',
+  background: {}, brandColorText: 'complicated-domain-textColor', brandColorBg: 'complicated-domain-bgColor',
 };
+
 
 
 export default frameworkDescription
