@@ -1,5 +1,5 @@
 <script>
-	// import {  } from '$lib/shared';
+	import { Input } from '$lib/shared';
 	// import { } from '$lib/widgets';
   // import {  } from '$lib/entities'
 </script>
@@ -9,7 +9,7 @@
   <title>CynefiPuzzle - app</title>
 </svelte:head>
 
-
+<Input />
 
 <style>
 
