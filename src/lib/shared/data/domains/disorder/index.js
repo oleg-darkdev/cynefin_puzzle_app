@@ -1,24 +1,17 @@
 
 // practices
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
+import mp from './practices/mp';
+import cem from './practices/cem';
+import ra from './practices/ra';
+import fragmentation from './practices/fragmentation';
+import facilitation from './practices/facilitation';
+import cr from './practices/cr';
+import сс from './practices/сс';
+import cor from './practices/cor';
+import sm from './practices/sm';
 // import  from './practices/';
 
 // frameworks
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
 // import sop from './frameworks/standard_operating_procedure';
 // import sop from './frameworks/standard_operating_procedure';
 
@@ -27,23 +20,22 @@
 
 
 const disorderDomain = {
-  domain: 'Disorder.',
-  shortDesc: '',
+  domain: 'disorder',
+  shortDesc: 'В этом омене мы имеем дело с ситуацией, где невозможно сразу понять, к какому из других четырех доменов (простого, сложного, сложного или хаоса) она относится. Это промежуточное состояние, в котором нет ясного понимания того, какие действия предпринять, и задача состоит в том, чтобы как можно скорее классифицировать проблему и выбрать соответствующий подход.',
   desc: [
-    '',
-    '',
-    '',
+    'Разные заинтересованные стороны могут пытаться применить привычные для себя подходы: Бизнес-аналитики могут искать сложные решения, операционные менеджеры могут пытаться внедрить простые процессы.',
+    'Основная задача в домене Disorder: Быстро прояснить, к какому домену относится ситуация (Clear, Complicated, Complex или Chaos), и выбрать соответствующий подход.'
   ],
   brandColorText: 'disorder-domain-textColor',
-  brandColorBg: 'disorder-domain-textColor',
-  align: 'r',
-  promoImg: '/images/domains/disorder_promoImg.svg',
-  id: 1004,
+  brandColorBg: 'disorder-domain-bgColor',
+  align: 'l',
+  promoImg: '/images/stable/disorder_promoImg.svg',
+  id: 1003,
   icon: '',
   link: '/',
-  favoriteTools: [],
+  favoriteTools: [ cor, сс, cr, cem, ra ],
   frameworks: [ ],
-  practices: [],
+  practices: [  sm, cor, сс, cr, facilitation, fragmentation, ra, cem, mp ],
   stats: [
     {
       title: 'Frameworks.',
@@ -51,21 +43,21 @@ const disorderDomain = {
     },
     {
       title: 'Practices.',
-      count: 0
+      count: 9
     },
   ],
   characteristics: {
     desc: '',
     values: [
       {
-        title: '',
+        title: 'Неопределенность',
         id: 0,
-        desc: [``]
+        desc: [`Нет четкого понимания того, что происходит`]
       },
       {
-        title: '',
+        title: 'Отсутствие классификации',
         id: 0,
-        desc: [``]
+        desc: [`Неясно, какой подход или метод применить`]
       },
       {
         title: '',
@@ -79,3 +71,10 @@ const disorderDomain = {
 
 
 export default disorderDomain;
+
+
+
+
+
+
+
