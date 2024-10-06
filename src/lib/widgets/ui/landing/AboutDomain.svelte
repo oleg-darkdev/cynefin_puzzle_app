@@ -9,7 +9,7 @@
 </script>
 
 
-<section class="flex {domainData.align == 'r' ? 'flex-row-reverse flex-wrap':'flex-row flex-wrap-reverse'} tablet-stack margin-bottom-160">
+<section class="flex {domainData.align == 'r' ? 'flex-row-reverse flex-wrap-reverse':'flex-row flex-wrap-reverse'} tablet-stack margin-bottom-160">
   <div class="max-w-lg center-tablet">
     <!-- textcolor_yellow -->
     <div class="callout  hyphenated {domainData.brandColorText}">{domainData.domain}</div>
@@ -17,12 +17,11 @@
 
     <div class="content-bullet-items max-w-[250px]">
       {#each domainData.stats as {title, count}}
-        <div class="icon_text_monitor max-w-[150px]">
-          <h2 class="h2 {domainData.brandColorText}">{count}</h2>
-          <div style='height: 50px;' class="line hide-tablet"></div>
+        <div class="stats-text max-w-[150px]">
+          <h3 class="h3 {domainData.brandColorText}">{count}</h3>
+          <div style='height: 50px;' class="line "></div>
           <div>
-          <h2 class="h2">{title}</h2>
-
+          <h3 class="h3">{title}</h3>
         </div>
         </div>
       {/each}
@@ -30,10 +29,10 @@
 
     <div class="list-frameworks mb-14">
       {#each domainData.favoriteTools as tool}
-        <div class="flex flex-row px-6 h-12 mb-10">
+        <div class="flex flex-row px-6 min-h-12 max-h-20 mb-10">
           <img src="/images/starBullet.svg" loading="lazy" class='my-auto mr-6 h-8' alt="">
           <!-- /{tool.id} -->
-          <a href='/app' target="_blank" class=" flex flex-row   no-underline icon_text learnmore-button">
+          <a href='/app' target="_blank" class=" flex flex-row no-underline icon_text learnmore-button">
             <h3 class='my-auto'><span class='{domainData.brandColorText}'>{tool.abbr}</span> {tool.title}</h3>
           </a>
         </div>
@@ -64,3 +63,23 @@
       <img src={domainData.promoImg} loading="lazy" alt="{domainData.title} promo image." width="655"  class="ascend-mockup-img">
     </div>
 </section>
+
+
+<style>
+.stats-text {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  justify-items: start;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 0.45fr auto 1fr;
+  grid-template-columns: 0.45fr auto 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+</style>
