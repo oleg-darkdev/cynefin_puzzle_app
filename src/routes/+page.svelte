@@ -31,6 +31,7 @@
     <AboutDomain domainData={cynefinDomains.complicated}/>
     <AboutDomain domainData={cynefinDomains.complex}/>
     <AboutDomain domainData={cynefinDomains.chaotic}/>
+    <AboutDomain domainData={cynefinDomains.disorder}/>
 
     <FrameworksTable />
 

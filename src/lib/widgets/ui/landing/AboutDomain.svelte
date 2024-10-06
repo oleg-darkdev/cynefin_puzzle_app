@@ -1,18 +1,11 @@
 <script>
-  // const benefits = [
-  //   'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
-  //   'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
-  //   'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
-  // ]
-
   export let domainData;
 </script>
 
 
 <section class="flex {domainData.align == 'r' ? 'flex-row-reverse flex-wrap-reverse':'flex-row flex-wrap-reverse'} tablet-stack margin-bottom-160">
   <div class="max-w-lg center-tablet">
-    <!-- textcolor_yellow -->
-    <div class="callout  hyphenated {domainData.brandColorText}">{domainData.domain}</div>
+    <div class="callout hyphenated {domainData.brandColorText}">{domainData.domain}</div>
     <p class="margin-top-24 margin-bottom-24">{domainData.shortDesc}</p>
 
     <div class="content-bullet-items max-w-[250px]">
@@ -54,13 +47,13 @@
         </div>
       </div>
       <div class='my-auto '>
-        <a href="/app" target="_blank"  class="learnmore-button w-button">Full list frameworks in simple domain!</a>
+        <a href="/app" target="_blank"  class="learnmore-button w-button">Full list frameworks in <span class='{domainData.brandColorText}'>{domainData.domain}</span> domain!</a>
       </div>
     </div>
   </div>
 
     <div class="ascend-mockup w-full ">
-      <img src={domainData.promoImg} loading="lazy" alt="{domainData.title} promo image." width="655"  class="ascend-mockup-img">
+      <img src={domainData.promoImg} loading="lazy" alt="{domainData.domain} promo image." width="655"  class="ascend-mockup-img">
     </div>
 </section>
 
