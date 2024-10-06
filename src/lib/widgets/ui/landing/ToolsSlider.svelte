@@ -8,10 +8,11 @@
   <div class="section s-hear">
     <div class="container">
       <div class="c-center_content margin-bottom-24">
-        <h2>Hear it from them.</h2>
+        <h2>Возможно вы слышали о них! <span>👇</span> </h2>
       </div>
     </div>
-    <div class="container hide show-landscape">
+  </div>
+    <!-- <div class="container hide show-landscape"> -->
       <!-- <div class="button--wrap swiper-buttons">
         <div class="custom_prev_testimonial">
           <div class="prev_arrow w-embed">
@@ -27,11 +28,15 @@
             </svg>
           </div>
         </div>
-      </div> -->
+      </div>
       <div class="swiper-container swiper-testimonial w-dyn-list">
-        <div role="list" class="swiper-wrapper w-dyn-items">
+        <div role="list" class=" w-dyn-items">
+          {#each promoToolsSet as {id, icon, abbr, shortDesc, brandColorBg, cynefinDomain, type}}
+            <DomainCard {id} {icon} {abbr} {shortDesc} {brandColorBg} tags={[cynefinDomain, type]}/>
+          {/each} -->
 
-          <div role="listitem" class="swiper-slide slide_testimonial w-dyn-item">
+
+          <!-- <div role="listitem" class="swiper-slide slide_testimonial w-dyn-item">
             <div id="w-node-e7f1f173-d5f9-a9a3-7491-244ee36aa443-7cdb613c"  class="testimonial-item">
               <div class="quote w-richtext">
                 <p>
@@ -47,22 +52,19 @@
                 <p class="quote-author-name">Dustin @ Weimann Maclise </p>
               </div>
             </div>
-          </div>
+          </div> -->
 
-
+<!--
 
         </div>
       </div>
-    </div>
-  </div>
+    </div> -->
+  <!-- </div> -->
 
-  <div class="marquee-wrapper">
+  <div class="marquee-wrapper ">
     <div class="marquee-track-testimonials">
       <div class="w-dyn-list">
         <div role="list" class="testimonial-list w-dyn-items">
-          <!--           {#each promoToolsSet as {id, icon, abbr, shortDesc}}
-            <DomainCard {id} {icon} {abbr} {shortDesc}/>
-          -->
           {#each promoToolsSet as {id, icon, abbr, shortDesc, brandColorBg, cynefinDomain, type}}
             <DomainCard {id} {icon} {abbr} {shortDesc} {brandColorBg} tags={[cynefinDomain, type]}/>
           {/each}
