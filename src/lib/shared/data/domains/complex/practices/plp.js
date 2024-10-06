@@ -6,15 +6,15 @@ const practiceDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Planning_poker`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#practice',
-  title: '',
-  abbr: ``,
+  title: 'Planning poker',
+  abbr: `Pl.P.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,9 +22,10 @@ const practiceDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-textColor',
+  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 
 };
+
 
 
 

@@ -13,16 +13,16 @@ const practiceDescription = {
   },
   cynefinDomain: '#complex',
   type: '#practice',
-  title: '',
-  abbr: ``,
-  shortDesc: '',
+  title: 'Behavior-driven development',
+  abbr: `B.D.D.`,
+  shortDesc: 'Behavior-driven development (BDD) involves naming software tests using domain language to describe the behavior of the code.',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
     '',
     '',
     '',
   ],
-  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-textColor',
+  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 
 };
 

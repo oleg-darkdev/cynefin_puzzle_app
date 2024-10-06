@@ -6,15 +6,15 @@ const practiceDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Extreme_programming`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#practice',
-  title: '',
-  abbr: ``,
+  title: 'Extreme programming',
+  abbr: `X.P.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,7 +22,7 @@ const practiceDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-textColor',
+  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 
 };
 

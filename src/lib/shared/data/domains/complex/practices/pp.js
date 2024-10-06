@@ -6,15 +6,15 @@ const practiceDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Pair_programming`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#practice',
-  title: '',
-  abbr: ``,
+  title: 'Pair programming',
+  abbr: `P.P.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -25,6 +25,7 @@ const practiceDescription = {
   background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 
 };
+
 
 
 
