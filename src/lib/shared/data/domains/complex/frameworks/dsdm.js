@@ -1,4 +1,4 @@
-const frameworkDescription = {
+const practiceDescription = {
   promoImg: '/images/domains/complex/_promo.svg',
   id: 0,
   icon: '/images/domains/complex/_icon.svg',
@@ -6,15 +6,15 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Dynamic_systems_development_method`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'Dynamic systems development method',
+  abbr: `D.S.D.M.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,8 +22,9 @@ const frameworkDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-textColor',
+  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
+
 };
 
 
-export default frameworkDescription
+export default practiceDescription

@@ -6,15 +6,15 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Rapid_application_development`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'Rapid application development',
+  abbr: `R.A.D.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [

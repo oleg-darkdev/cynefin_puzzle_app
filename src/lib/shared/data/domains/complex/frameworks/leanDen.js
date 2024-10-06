@@ -6,16 +6,16 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Lean_software_development`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
-  shortDesc: '',
+  title: 'Lean software development',
+  abbr: `Lean development`,
+  shortDesc: 'Lean Dev.',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
     '',
@@ -24,6 +24,10 @@ const frameworkDescription = {
   ],
   background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 };
+
+
+
+
 
 
 export default frameworkDescription

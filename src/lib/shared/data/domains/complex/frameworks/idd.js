@@ -6,15 +6,15 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Iterative_and_incremental_development`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'Iterative and incremental development',
+  abbr: `I.I.D.`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -22,8 +22,12 @@ const frameworkDescription = {
     '',
     '',
   ],
-  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-textColor',
+  background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 };
+
+
+
+
 
 
 export default frameworkDescription

@@ -6,15 +6,15 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Scrumban`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
+  title: 'Scrumban',
+  abbr: `Scrumban`,
   shortDesc: '',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
@@ -24,6 +24,9 @@ const frameworkDescription = {
   ],
   background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 };
+
+
+
 
 
 export default frameworkDescription

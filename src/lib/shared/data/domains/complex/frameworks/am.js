@@ -6,16 +6,16 @@ const frameworkDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Agile_modeling`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#complex',
   type: '#framework',
-  title: '',
-  abbr: ``,
-  shortDesc: '',
+  title: 'Agile modeling',
+  abbr: `A.M.`,
+  shortDesc: 'Agile modeling (AM) is a methodology for modeling and documenting software systems based on best practices. It is a collection of values and principles that can be applied on an (agile) software development project. This methodology is more flexible than traditional modeling methods, making it a better fit in a fast-changing environment.[60] It is part of the agile software development tool kit.',
   examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
     '',
@@ -24,6 +24,5 @@ const frameworkDescription = {
   ],
   background: {}, brandColorText: 'complex-domain-textColor', brandColorBg: 'complex-domain-bgColor',
 };
-
 
 export default frameworkDescription
