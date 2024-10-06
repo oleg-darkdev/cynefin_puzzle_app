@@ -1,7 +1,7 @@
 
 // landing
 import ArticleCard from './ui/landing/ArticleCard.svelte';
-// import ArticleCard from './ui/landing/ArticleCard.svelte';
+import PriceFreePlanCard from './ui/landing/PriceFreePlanCard.svelte';
 // import ArticleCard from './ui/landing/ArticleCard.svelte';
 // import ArticleCard from './ui/landing/ArticleCard.svelte';
 
@@ -17,4 +17,4 @@ import DomainCard from './ui/DomainCard.svelte';
 // import ArticleCard from './ui/app/ArticleCard.svelte';
 
 
-export { ArticleCard, DomainCard };
+export { ArticleCard, DomainCard, PriceFreePlanCard };
