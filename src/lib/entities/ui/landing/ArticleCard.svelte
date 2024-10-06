@@ -7,7 +7,7 @@
 <div role="listitem" class="w-dyn-item">
   <div class="c-blog-left-parent c-blog">
     <a href="/articles/{article.link}" class="blogright w-inline-block">
-      <img src="images/image19.jpg" loading="lazy" alt="" class="coverphoto">
+      <img src="{article.promoImg}" loading="lazy" alt="" class="coverphoto">
     </a>
     <div id="w-node-f48ce256-1d21-215f-f4ed-004c25d7c10d-96db613e" class="bloglist_content">
       <a href="/articles/{article.link}" class="g-bloginfo w-inline-block">
