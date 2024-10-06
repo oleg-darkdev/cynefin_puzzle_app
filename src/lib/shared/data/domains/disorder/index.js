@@ -38,7 +38,7 @@ const disorderDomain = {
   brandColorBg: 'disorder-domain-textColor',
   align: 'r',
   promoImg: '/images/domains/disorder_promoImg.svg',
-  id: 0,
+  id: 1004,
   icon: '',
   link: '/',
   favoriteTools: [],

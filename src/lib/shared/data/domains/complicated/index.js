@@ -51,20 +51,20 @@ const complicatedDomain = {
   brandColorBg: 'complicated-domain-bgColor',
   align: 'r',
   promoImg: '/images/domains/complicated_promoImg.svg',
-  id: 0,
+  id: 1001,
   icon: '',
   link: '/',
-  favoriteTools: [rmf, nrmf, erm, pmi, prince, ddd, tps, bs, rca, bpm, sp, cpm, fmea, pert, vsm, pp, mkm, dt, toc, cba, st, scp, benchmarking],
+  favoriteTools: [ erm, pmi, tps, fmea, toc],
   frameworks: [ rmf, nrmf, erm, pmi, prince, ddd, tps, bs],
   practices: [rca, bpm, sp, cpm, ve, fmea, pert, vsm, pp, mkm, dt, toc, cba, st, scp, benchmarking],
   stats: [
     {
       title: 'Frameworks.',
-      count: 0
+      count: 8
     },
     {
       title: 'Practices.',
-      count: 0
+      count: 16
     },
   ],
   characteristics: {

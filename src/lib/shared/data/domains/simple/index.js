@@ -43,7 +43,7 @@ const simpleDomain = {
   brandColorBg: 'simple-domain-bgColor',
   align: 'l',
   promoImg: '/images/domains/sipmle_promoImg.svg',
-  id: 0,
+  id: 1000,
   icon: '',
   link: '/',
   favoriteTools: [ tqm,  sla, waterfall], // six_sigma,
