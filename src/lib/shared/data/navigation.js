@@ -12,6 +12,10 @@ const navigation = [
     link: '/'
   },
   {
+    title: 'Цены',
+    link: '#prices'
+  },
+  {
     title: 'F.A.Q.',
     link: '#faq'
   },
