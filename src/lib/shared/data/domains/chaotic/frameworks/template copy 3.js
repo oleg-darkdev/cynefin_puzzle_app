@@ -22,7 +22,7 @@ const frameworkDescription = {
     '',
     '',
   ],
-  background: {}
+  background: {}, brandColorText: 'chaotic-domain-textColor', brandColorBg: 'chaotic-domain-textColor',
 };
 
 

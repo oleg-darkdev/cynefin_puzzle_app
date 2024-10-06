@@ -1,8 +1,8 @@
 const practiceDescription = {
-  promoImg: '/images/domains/chaotic/_promo.svg',
+  promoImg: '/images/domains/complicated/_promo.svg',
   id: 0,
-  icon: '/images/domains/chaotic/_icon.svg',
-  logo: `/images/domains/chaotic/_logo.svg`,
+  icon: '/images/domains/complicated/_icon.svg',
+  logo: `/images/domains/complicated/_logo.svg`,
   links: {
     wiki: {
       ru: ``,
@@ -11,7 +11,7 @@ const practiceDescription = {
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
-  cynefinDomain: '#chaotic',
+  cynefinDomain: '#complicated',
   type: '#practice',
   title: '',
   abbr: ``,
@@ -22,7 +22,7 @@ const practiceDescription = {
     '',
     '',
   ],
-  background: {}
+  background: {}, brandColorText: 'complicated-domain-textColor', brandColorBg: 'complicated-domain-textColor',
 
 };
 
