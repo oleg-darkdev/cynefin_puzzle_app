@@ -35,7 +35,7 @@ const chaoticDomain = {
     '',
   ],
   brandColorText: 'chaotic-domain-textColor',
-  brandColorBg: 'chaotic-domain-textColor',
+  brandColorBg: 'chaotic-domain-bgColor',
   align: 'r',
   promoImg: '/images/domains/chaotic_promoImg.svg',
   id: 0,

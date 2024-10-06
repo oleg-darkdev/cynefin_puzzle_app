@@ -35,7 +35,7 @@ const complexDomain = {
     '',
   ],
   brandColorText: 'complex-domain-textColor',
-  brandColorBg: 'complex-domain-textColor',
+  brandColorBg: 'complex-domain-bgColor',
   align: 'l',
   promoImg: '/images/domains/complex_promoImg.svg',
   id: 0,

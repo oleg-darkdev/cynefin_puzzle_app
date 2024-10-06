@@ -27,9 +27,6 @@ const practiceDescription = {
 
 };
 
- () ()
-
-
 
 
 export default practiceDescription
