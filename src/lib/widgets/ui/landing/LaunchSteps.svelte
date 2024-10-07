@@ -9,9 +9,10 @@
     </div>
   </div>
 
-  <div  id='how-to-start' class="width-max-510 center-tablet">
+  <div  id='how-to-start' class="max-w-xl center-tablet">
     <div class="callout textcolor_pink">Как начать:</div>
-    <h3 class="margin-top-24 margin-bottom-24">Изученить основы cynefin за 90 минут.
+    <h3 class="margin-top-24 margin-bottom-24">
+      Изученить основы cynefin за 90 минут.
     </h3>
     <div class="content-bullet-items">
       <!-- {#each steps as {title, desc, img}}
