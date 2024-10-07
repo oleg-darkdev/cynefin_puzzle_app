@@ -1,11 +1,9 @@
 
 // practices
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
-// import  from './practices/';
+import adHoc from './practices/adHoc';
+import ccs from './practices/ccs';
+import rp from './practices/rp';
+import сс from './practices/сс';
 // import  from './practices/';
 // import  from './practices/';
 // import  from './practices/';
@@ -20,30 +18,27 @@
 // import sop from './frameworks/standard_operating_procedure';
 // import sop from './frameworks/standard_operating_procedure';
 // import sop from './frameworks/standard_operating_procedure';
-// import sop from './frameworks/standard_operating_procedure';
-
-
-
 
 
 const chaoticDomain = {
   domain: 'Chaotic',
-  shortDesc: '',
+  shortDesc: 'В данном домене отсутствуют причинно-следственные связи, и ситуация является крайне непредсказуемой.',
   desc: [
-    '',
-    '',
-    '',
+      `В этом домене важно быстро действовать, чтобы восстановить порядок и предотвратить дальнейшие проблемы. Управление в хаосе требует немедленных действий и поиска краткосрочных решений, которые могут помочь перейти к более управляемым состояниям.`,
+      `Для данного домена взято очень, очень много из армейских структур. Чтобы бы более понятнее почему - в нашей с вами жизни мы не часто попадаем в ситуации которые подходят под определение chaos по модели cynefin. От исхода этих ситуаций не зависит наша, или чьито ещё жизни - что очень часто случается в армейских структурах.`,
+
   ],
-  brandColorText: 'chaotic-domain-textColor',
-  brandColorBg: 'chaotic-domain-bgColor',
+  brandColorText: 'chaos-domain-textColor',
+  brandColorBg: 'chaos-domain-bgColor',
   align: 'r',
-  promoImg: '/images/domains/chaotic_promoImg.svg',
-  id: 0,
+  promoImg: '/images/stable/chaotic_promoImg.svg',
+  id: 1003,
   icon: '',
   link: '/',
-  favoriteTools: [],
+  //  , , , , , , , , , , , , , , , , ,
+  favoriteTools: [ adHoc, ccs, rp, сс],
   frameworks: [ ],
-  practices: [],
+  practices: [ adHoc, ccs, rp, сс ],
   stats: [
     {
       title: 'Frameworks.',
@@ -51,26 +46,36 @@ const chaoticDomain = {
     },
     {
       title: 'Practices.',
-      count: 0
+      count: 4
     },
   ],
   characteristics: {
     desc: '',
     values: [
       {
-        title: '',
+        title: 'Скорость действий',
         id: 0,
-        desc: [``]
+        desc: [`Главный акцент на быстрой реакции и принятии решений`]
       },
       {
-        title: '',
+        title: 'Непредсказуемость',
         id: 0,
-        desc: [``]
+        desc: [`Работают методы, направленные на уменьшение хаоса и восстановление порядка.`]
       },
       {
-        title: '',
+        title: 'Гибкость',
         id: 0,
-        desc: [``]
+        desc: [`Необходимо быть готовым к изменению планов в зависимости от ситуации`]
+      },
+      {
+        title: 'Командная работа',
+        id: 0,
+        desc: [`Сильная координация и коммуникация между участниками`]
+      },
+      {
+        title: 'Коллективный интеллект',
+        id: 0,
+        desc: [`Многие подходы предполагают вовлечение большого количества участников и использование коллективных знаний для нахождения решений.`]
       },
 
     ]
@@ -79,3 +84,10 @@ const chaoticDomain = {
 
 
 export default chaoticDomain;
+
+
+
+
+
+
+

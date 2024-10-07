@@ -6,17 +6,18 @@ const practiceDescription = {
   links: {
     wiki: {
       ru: ``,
-      en: ``
+      en: `https://en.wikipedia.org/wiki/Command_hierarchy`
     },
     offisialSiteLink: `/`,
     articleLink: `/app`,
   },
   cynefinDomain: '#chaotic',
   type: '#practice',
-  title: '',
-  abbr: ``,
-  shortDesc: '',
-  examples: [{title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
+  // Clear Command Structure
+  title: 'Четкая структура командования',
+  abbr: `C.C.S.`,
+  shortDesc: 'Создание ясной иерархии и командной структуры для быстрой передачи решений и информации.',
+  examples: [{title: 'военные операции', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'}, {title: '', link: '/'},],
   desc: [
     '',
     '',
@@ -25,6 +26,8 @@ const practiceDescription = {
   background: {}, brandColorText: 'chaos-domain-textColor', brandColorBg: 'chaos-domain-bgColor',
 
 };
+
+
 
 
 
