@@ -83,7 +83,9 @@
     <div class="blog_rich w-richtext">
       <p>It’s no secret that managing call volume is a huge challenge, especially for short staffed restaurants. This recent New York Times article tells some personal stories that explain just how painful staffing phone is for restaurants these days. One restaurant we’ve worked with could only answer 4% of their phone calls with their staffing levels, and many restaurants are answering zero phone calls — choosing to not answer the phone all together.</p>
       <p>Every restaurant is different, so you will have to explore the solve that’s right of you — whether that’s adjusting your staffing scheduling, hiring more staff, or exploring technology solutions that can help. That said, here are some trends, derived from real restaurant data, that might help you take the first step forward to dealing with your phone woes.</p>
-      <ul role="list">
+
+      <!-- refactoring -->
+      <!-- <ul role="list">
         <li>
           <strong>Saturdays get 3x the amount of phone calls as Mondays.</strong> Based on our data, call volume varies heavily based on day of the week, and Saturdays are when phone call volume peaks. Tuesdays and Wednesdays are also low volume days.
         </li>
@@ -93,7 +95,7 @@
         <li>
           <strong>Top 3 reasons why people call.</strong> This of course depends on the type of restaurant, but on average most calls are about reservations. Making a reservation is the #1 reasons why guests call restaurants. The #2 reason is to place takeout orders. And the #3 reason why guests call is to modify existing reservations. Keep this in mind when deciding how to staff your phone!
         </li>
-      </ul>
+      </ul> -->
       <h4>
         <br>Curious for more data?�&nbsp;
       </h4>
