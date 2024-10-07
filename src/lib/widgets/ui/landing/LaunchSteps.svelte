@@ -2,10 +2,10 @@
     import {socialLinks} from '$shared';
 </script>
 
-<div class="grid-40 tablet-stack margin-bottom-160">
+<section class="grid-40 tablet-stack margin-bottom-160">
   <div>
     <div class="launch-mockup">
-      <img src="/images/launch%20Mockup%25402x.png" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 991px) 95vw, (max-width: 1439px) 46vw, 620px" alt=""  class="launch-mockup-img">
+      <img src="/images/stable/steps.svg" loading="lazy" alt="Go, go, go! "  class="launch-mockup-img">
     </div>
   </div>
 
@@ -23,7 +23,7 @@
       <!--  second -->
       <div class="icon_text">
         <img src="/images/first.svg" loading="lazy"  alt="icon">
-        <div>Выберите и приобретите комплект, для <a href="/" class='complex-domain-textColor link--light'>самостоятельной игры</a> или <a href="/" class='simple-domain-textColor link--light '>проведения воркшопа</a> . Этот комплект включает в себя все необходимые материалы для начала.</div>
+        <div>Выберите и приобретите комплект, для <a href="#price" class='complex-domain-textColor link--light'>самостоятельной игры</a> или <a href="#price" class='simple-domain-textColor link--light '>проведения воркшопа</a> . Этот комплект включает в себя все необходимые материалы для начала.</div>
       </div>
       <div class="icon_text">
         <img src="/images/second.svg" loading="lazy"  alt="icon">
@@ -63,7 +63,7 @@
       </div>
     </div>
   </div>
-</div>
+</section>
 
 
 <style>

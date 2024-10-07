@@ -8,7 +8,7 @@
   <div class="section s-hear">
     <div class="container">
       <div class="c-center_content margin-bottom-24">
-        <h2>Возможно вы слышали о них! <span>👇</span> </h2>
+        <h2>Возможно ты уже слышал о них! <span>👇</span> </h2>
       </div>
     </div>
   </div>
