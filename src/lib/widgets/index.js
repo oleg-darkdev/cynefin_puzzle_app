@@ -17,7 +17,7 @@ import Price from './ui/landing/Price.svelte';
 import ToolsSlider from './ui/landing/ToolsSlider.svelte';
 import PricingCta from './ui/landing/PricingCta.svelte';
 import Faq from './ui/landing/Faq.svelte';
-import AboutOtherGames from './ui/landing/AboutOtherGames.svelte';
+import OpensourceBlock from './ui/landing/OpensourceBlock.svelte';
 import AboutAuthor from './ui/landing/AboutAuthor.svelte';
 import AboutValues from './ui/landing/AboutValues.svelte';
 import ContactForSales from './ui/landing/ContactForSales.svelte';
@@ -38,4 +38,4 @@ import ArticlesDivider from './ui/landing/ArticlesDivider.svelte';
 // import AboutAuthor from './ui/app/AboutAuthor.svelte';
 // import AboutAuthor from './ui/app/AboutAuthor.svelte';
 
-export { Footer, Hero, Header, ContactForSales, ArticlesDivider, AboutOtherGames, AboutAuthor, AboutValues, PartnersLogos, Cta, TagsCloud, Faq, PricingCta, ToolsSlider, Features, HowItWork, LaunchSteps, AboutDomain, Stats, Testimonials, FrameworksTable, Articles, Price, };
+export { Footer, Hero, Header, ContactForSales, ArticlesDivider, OpensourceBlock, AboutAuthor, AboutValues, PartnersLogos, Cta, TagsCloud, Faq, PricingCta, ToolsSlider, Features, HowItWork, LaunchSteps, AboutDomain, Stats, Testimonials, FrameworksTable, Articles, Price, };
