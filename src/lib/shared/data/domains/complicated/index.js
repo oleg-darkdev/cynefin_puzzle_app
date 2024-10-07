@@ -50,7 +50,7 @@ const complicatedDomain = {
   brandColorText: 'complicated-domain-textColor',
   brandColorBg: 'complicated-domain-bgColor',
   align: 'r',
-  promoImg: '/images/domains/complicated_promoImg.svg',
+  promoImg: '/images/stable/complicated_promoImg.svg',
   id: 1001,
   icon: '',
   link: '/',
