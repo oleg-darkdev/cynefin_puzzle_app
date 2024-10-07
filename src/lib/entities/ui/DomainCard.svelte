@@ -8,11 +8,11 @@
 <div role="listitem" class="w-dyn-item">
   <div class="testimonial-item {brandColorBg} ">
     <div class="quote w-richtext">
-      <div class="grid grid-cols-2 gap-6">
+      <!-- <div class="grid grid-cols-2 gap-6">
         {#each tags as tag}
           <TagLink {tag}/>
         {/each}
-      </div>
+      </div> -->
 
       <p>
         <!-- <span class="textcolor_white">super appreciative</span> -->
