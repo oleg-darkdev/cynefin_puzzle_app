@@ -1,7 +1,6 @@
 <script>
   import { fade } from 'svelte/transition';
-
-  import { faqData } from '$lib/shared';
+  import { faqData, CloseBtn } from '$lib/shared';
 </script>
 
 <section class="section s-faq">
@@ -22,15 +21,7 @@
                 <img src="images/dropdownDark.svg" loading="lazy" alt="">
               </div> -->
               <h5 class="faq-q-default margin-bottom-0 margin-top-0">{faq.q}? </h5>
-              <div  class="h-16 w-16 flex items-center content-center   rounded-full complex-domain-bgColor" >
-                <div class=" close-icon-wrapper">
-                  <div class="close-icon">
-                    <div class="line left ease-linear transform  transition duration-200 {faq.showFaq ? '-rotate-45': 'rotate-90'}"></div>
-                    <div class="line right ease-linear transform  transition duration-200 {faq.showFaq ? 'rotate-45': ''}"></div>
-                  </div>
-                </div>
-              </div>
-
+              <CloseBtn bind:indicator={faq.showFaq} />
             </div>
 
             {#if faq.showFaq}
