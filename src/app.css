@@ -5402,7 +5402,7 @@ blockquote {
   top: 18%;
   right: auto;
   bottom: auto;
-  margin-left: 312px;
+  margin-left: 360px;
 }
 .about-audio {
   position: absolute;
@@ -6359,10 +6359,11 @@ blockquote {
 .about_phone {
   position: absolute;
   left: auto;
-  top: 168px;
+  top: 68px;
   right: auto;
   bottom: 0;
-  height: 207px;
+  /* 207px */
+  height: 307px;
   margin-right: 1029px;
   margin-left: 0;
 }
