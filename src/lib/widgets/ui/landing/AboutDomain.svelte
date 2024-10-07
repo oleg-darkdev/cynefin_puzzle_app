@@ -1,4 +1,6 @@
 <script>
+  import { DomainStatsCard } from '$lib/entities';
+
   export let domainData;
 </script>
 
@@ -8,17 +10,7 @@
     <div class="callout hyphenated {domainData.brandColorText}">{domainData.domain}</div>
     <p class="margin-top-24 margin-bottom-24">{domainData.shortDesc}</p>
 
-    <div class="content-bullet-items max-w-[250px]">
-      {#each domainData.stats as {title, count}}
-        <div class="stats-text max-w-[150px]">
-          <h3 class="h3 {domainData.brandColorText}">{count}</h3>
-          <div style='height: 50px;' class="line "></div>
-          <div>
-          <h3 class="h3">{title}</h3>
-        </div>
-        </div>
-      {/each}
-    </div>
+    <DomainStatsCard {domainData}/>
 
     <div class="list-frameworks mb-14">
       {#each domainData.favoriteTools as tool}
@@ -59,20 +51,5 @@
 
 
 <style>
-.stats-text {
-  display: -ms-grid;
-  display: grid;
-  -webkit-box-pack: start;
-  -webkit-justify-content: start;
-  -ms-flex-pack: start;
-  justify-content: start;
-  justify-items: start;
-  grid-auto-columns: 1fr;
-  grid-column-gap: 16px;
-  grid-row-gap: 16px;
-  -ms-grid-columns: 0.45fr auto 1fr;
-  grid-template-columns: 0.45fr auto 1fr;
-  -ms-grid-rows: auto;
-  grid-template-rows: auto;
-}
+
 </style>
