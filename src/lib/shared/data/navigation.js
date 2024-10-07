@@ -8,12 +8,16 @@ const navigation = [
     link: '#domains'
   },
   {
-    title: 'О авторе',
-    link: '#author'
+    title: 'Как начать',
+    link: '#how-to-start'
   },
   {
     title: 'Цены',
     link: '#price'
+  },
+  {
+    title: 'О авторе',
+    link: '#author'
   },
   {
     title: 'F.A.Q.',
@@ -23,7 +27,6 @@ const navigation = [
     title: 'Статьи',
     link: '#articles'
   },
-// how-to-start
 ];
 
 
