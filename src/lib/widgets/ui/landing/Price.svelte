@@ -22,7 +22,7 @@
   </div> -->
   <div class="container">
     <div class="w-dyn-list">
-      <div id='prices' role="list" class="grid-4column grid-40 grid-pricing w-dyn-items">
+      <div id='price' role="list" class="grid-4column grid-40 grid-pricing w-dyn-items">
         {#each prices as data}
         <PriceFreePlanCard {data}>
           <BlackOutlineBtn text={data.btnText} link='/'/>

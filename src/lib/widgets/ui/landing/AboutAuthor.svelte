@@ -6,7 +6,7 @@
   <div class="container">
     <div class="grid-2column">
       <div class="callout--wrap ">
-        <div class="callout textcolor_green">Автор проекта</div>
+        <div id='author' class="callout textcolor_green">Автор проекта</div>
         <!-- <img src="images/vector_about.svg" loading="lazy" alt="" class="about-asterisk"> -->
         <!-- cloud_about.svg -->
         <img src="images/vector_about.svg" loading="lazy" alt="" class="about-cloud">

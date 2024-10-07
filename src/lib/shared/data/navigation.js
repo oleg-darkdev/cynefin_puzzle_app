@@ -9,11 +9,11 @@ const navigation = [
   },
   {
     title: 'О авторе',
-    link: '/'
+    link: '#author'
   },
   {
     title: 'Цены',
-    link: '#prices'
+    link: '#price'
   },
   {
     title: 'F.A.Q.',
