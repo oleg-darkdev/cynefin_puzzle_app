@@ -33,7 +33,7 @@ const chaoticDomain = {
   align: 'r',
   promoImg: '/images/stable/chaotic_promoImg.svg',
   id: 1003,
-  icon: '',
+  icon: '/images/domains/chaotic_icon.svg',
   link: '/',
   //  , , , , , , , , , , , , , , , , ,
   favoriteTools: [ adHoc, ccs, rp, сс],

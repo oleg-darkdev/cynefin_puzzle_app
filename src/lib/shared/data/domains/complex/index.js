@@ -68,7 +68,7 @@ const complexDomain = {
   align: 'l',
   promoImg: '/images/stable/complex_promoImg.svg',
   id: 1002,
-  icon: '',
+  icon: '/images/domains/complex_icon.svg',
   link: '/',
   // ,
   favoriteTools: [ agile,  fdd, aup, sbe,  xp],

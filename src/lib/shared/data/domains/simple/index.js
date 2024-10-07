@@ -28,9 +28,6 @@ import sms from './frameworks/sms_safety_management_system';
 // import sop from './frameworks/standard_operating_procedure';
 
 
-
-
-
 const simpleDomain = {
   domain: 'Simple',
   shortDesc: 'В простом или очевидном домене (Clear/Obvious/Simple) модели Cynefin управляемые задачи характеризуются прямой и легко идентифицируемой связью между причиной и следствием. В этом домене задачи являются рутинными и предсказуемыми, и для их решения применяются стандартные подходы, проверенные временем.',
@@ -44,7 +41,7 @@ const simpleDomain = {
   align: 'l',
   promoImg: '/images/stable/sipmle_promoImg.svg',
   id: 1000,
-  icon: '',
+  icon: '/images/domains/sipmle_icon.svg',
   link: '/',
   favoriteTools: [ tqm,  sla, waterfall], // six_sigma,
   frameworks: [ sop, six_sigma, tqm, iso, sla, qc, fiveS, waterfall, rpa, sbs, sms,  ],

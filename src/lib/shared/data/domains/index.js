@@ -19,6 +19,8 @@ const domains = {
   disorder
 }
 
+
+
 const promoToolsSet = [
   simple.favoriteTools[0],
   complicated.favoriteTools[0],

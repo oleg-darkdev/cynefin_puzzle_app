@@ -52,7 +52,7 @@ const complicatedDomain = {
   align: 'r',
   promoImg: '/images/stable/complicated_promoImg.svg',
   id: 1001,
-  icon: '',
+  icon: '/images/domains/complicated_icon.svg',
   link: '/',
   favoriteTools: [ erm, pmi, tps, fmea, toc],
   frameworks: [ rmf, nrmf, erm, pmi, prince, ddd, tps, bs],

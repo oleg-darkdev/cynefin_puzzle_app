@@ -31,7 +31,7 @@ const disorderDomain = {
   align: 'l',
   promoImg: '/images/stable/disorder_promoImg.svg',
   id: 1003,
-  icon: '',
+  icon: '/images/domains/disorder_icon.svg',
   link: '/',
   favoriteTools: [ cor, сс, cr, cem, ra ],
   frameworks: [ ],
