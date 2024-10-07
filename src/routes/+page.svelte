@@ -1,6 +1,6 @@
 <script>
 	import { cynefinDomains } from '$lib/shared';
-	import { Footer, Hero, ArticlesDivider, ToolsSlider, Header, ContactForSales, AboutAuthor, AboutValues, PricingCta, Faq, FrameworksTable, PartnersLogos, AboutOtherGames, Articles, Testimonials, Price, AboutDomain, Stats, Cta, TagsCloud, HowItWork, Features, LaunchSteps} from '$lib/widgets';
+	import { Footer, Hero, ArticlesDivider, ToolsSlider, Header, ContactForSales, AboutAuthor, AboutValues, PricingCta, Faq, FrameworksTable, PartnersLogos, OpensourceBlock, Articles, Testimonials, Price, AboutDomain, Stats, Cta, TagsCloud, HowItWork, Features, LaunchSteps} from '$lib/widgets';
 
   // import {  } from '$lib/entities'
 </script>
@@ -33,7 +33,7 @@
     <AboutDomain domainData={cynefinDomains.chaotic}/>
     <AboutDomain domainData={cynefinDomains.disorder}/>
 
-    <FrameworksTable />
+    <!-- <FrameworksTable /> -->
 
     <LaunchSteps />
   </div>
@@ -45,11 +45,11 @@
 
 <Price />
 
-<AboutOtherGames />
+<OpensourceBlock />
 
 <AboutAuthor />
 
-<AboutValues />
+<!-- <AboutValues /> -->
 
 <!-- <Testimonials /> -->
 
