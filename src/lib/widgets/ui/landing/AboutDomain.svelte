@@ -7,7 +7,7 @@
 
 <section class="flex {domainData.align == 'r' ? 'flex-row-reverse flex-wrap-reverse':'flex-row flex-wrap-reverse'} tablet-stack margin-bottom-160">
   <div class="max-w-lg center-tablet">
-    <div class="callout hyphenated {domainData.brandColorText}">{domainData.domain}</div>
+    <div id={domainData.anchor} class="callout hyphenated {domainData.brandColorText}">{domainData.domain}</div>
     <p class="margin-top-24 margin-bottom-24">{domainData.shortDesc}</p>
 
     <DomainStatsCard {domainData}/>
@@ -26,7 +26,7 @@
 
     <div class="button--wrap margin-top-40">
       <div  class="playbutton_wrap">
-        <div udesly-audio-player="/" class="audio-player-button">
+        <div  class="audio-player-button">
           <div class="control-wrapper small">
             <a href='/app' target="_blank" class="no-underline play-wrapper is-grid">
               <img src="/images/player.svg"  alt="" class="h-12">
