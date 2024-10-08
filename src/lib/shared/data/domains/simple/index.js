@@ -30,6 +30,7 @@ import sms from './frameworks/sms_safety_management_system';
 
 const simpleDomain = {
   domain: 'Simple',
+  anchor: 'simple-domain',
   shortDesc: 'В простом или очевидном домене (Clear/Obvious/Simple) модели Cynefin управляемые задачи характеризуются прямой и легко идентифицируемой связью между причиной и следствием. В этом домене задачи являются рутинными и предсказуемыми, и для их решения применяются стандартные подходы, проверенные временем.',
   desc: [
     '',
