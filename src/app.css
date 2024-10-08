@@ -5861,26 +5861,7 @@ blockquote {
   -webkit-perspective: 1000px;
   perspective: 1000px;
 }
-.hero_botleft {
-  position: absolute;
-  left: auto;
-  top: 104px;
-  right: auto;
-  bottom: auto;
-  z-index: 3;
-  width: 206px;
-  margin-left: -859px;
-}
-.hero_botright {
-  position: absolute;
-  left: auto;
-  top: 85px;
-  right: auto;
-  bottom: auto;
-  z-index: 3;
-  width: 169px;
-  margin-left: 801px;
-}
+
 .hero_girlwalking {
   position: absolute;
   left: auto;
@@ -6555,13 +6536,7 @@ blockquote {
     height: 486px;
     min-width: 1440px;
   }
-  .hero_botleft {
-    top: 117px;
-    margin-left: -1075px;
-  }
-  .hero_botright {
-    margin-left: 980px;
-  }
+
   .hero_girlwalking {
     margin-left: -1085px;
   }
@@ -7268,15 +7243,7 @@ blockquote {
     grid-template-rows: auto auto;
     background-color: #fff;
   }
-  .hero_botleft {
-    max-width: 103px;
-    margin-left: -734px;
-  }
-  .hero_botright {
-    top: 97px;
-    max-width: 82px;
-    margin-left: 713px;
-  }
+
   .hero_girlwalking {
     left: 0;
     top: auto;
@@ -7804,15 +7771,7 @@ blockquote {
   .dropdown-item-mobile.is-first {
     border-top: 2px solid #fff;
   }
-  .hero_botleft {
-    left: 16px;
-    top: 97px;
-    margin-left: 0;
-  }
-  .hero_botright {
-    top: 87px;
-    right: 24px;
-  }
+
   .hero_girlwalking {
     width: 140px;
   }
@@ -8242,14 +8201,7 @@ blockquote {
     padding-right: 16px;
     padding-left: 16px;
   }
-  .hero_botleft {
-    left: 16px;
-    margin-left: 0;
-  }
-  .hero_botright {
-    top: 99px;
-    right: 16px;
-  }
+
   .hero_skateboarderwrap {
     margin-left: 37px;
   }
