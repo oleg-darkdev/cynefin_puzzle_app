@@ -36,7 +36,9 @@
 
       <div class='mb-14'>
         <a href='/app' target="_blank" class="button button--submit w-button -mb-10" >
-          Начать игру!
+          <!-- Начать игру! -->
+
+          Rozpocząć grę!
         </a>
         <div class="footer-logo mt-16">
           <img src="/images/logo_light.svg" loading="lazy" alt="" height="48">

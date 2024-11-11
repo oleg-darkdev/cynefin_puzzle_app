@@ -8,7 +8,8 @@
   <div class="section s-hear">
     <div class="container">
       <div class="c-center_content margin-bottom-24">
-        <h2>Они у всех на слуху! <span>👇</span> </h2>
+        <!-- Они у всех на слуху! -->
+        <h2>One są  na ustach wszystkich! <span>👇</span> </h2>
       </div>
     </div>
   </div>

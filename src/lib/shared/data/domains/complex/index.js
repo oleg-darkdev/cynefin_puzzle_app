@@ -58,7 +58,8 @@ import xfn from './frameworks/xfn';
 const complexDomain = {
   domain: 'Complex',
   anchor: 'complex-domain',
-  shortDesc: 'В сложном (Complex) домене модели Cynefin причинно-следственные связи невозможно распознать заранее, так как системы динамичны, непредсказуемы и полны неопределённости. В этом домене управление требует экспериментов, изучения взаимосвязей и постоянной адаптации к изменениям.',
+  shortDesc: 'W złożonej domenie modelu Cynefin związki przyczynowo-skutkowe nie mogą być rozpoznane z wyprzedzeniem, ponieważ systemy są dynamiczne, nieprzewidywalne i pełne niepewności. W tej domenie zarządzanie wymaga eksperymentowania, badania relacji i ciągłego dostosowywania się do zmian.',
+  // shortDesc: 'В сложном (Complex) домене модели Cynefin причинно-следственные связи невозможно распознать заранее, так как системы динамичны, непредсказуемы и полны неопределённости. В этом домене управление требует экспериментов, изучения взаимосвязей и постоянной адаптации к изменениям.',
   desc: [
     'Решения часто не могут быть предсказаны заранее, и необходимо работать с процессами, которые "проявляют себя" через действия и наблюдения.',
     '',

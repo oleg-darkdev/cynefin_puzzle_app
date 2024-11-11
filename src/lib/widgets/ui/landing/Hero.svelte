@@ -26,20 +26,22 @@
   <div class="container c-center_content">
     <div class="max-w-3xl center-text c_hero">
       <h1 class="h1_hero">
-        Cynefin Puzzle — обучающая настольная игра.
+        Cynefin Puzzle to edukacyjna gra planszowa.
+        <!-- Cynefin Puzzle — обучающая настольная игра. -->
       </h1>
       <p class="p_hero">
-        Cозданна для глубокого понимания модели Cynefin, предлагает игрокам погрузиться в процесс принятия решений через призму пяти доменов модели Cynefin: <a href='#simple-domain' class="simple-domain-textColor">Простой</a>, <a href='#complicated-domain' class="complicated-domain-textColor">Сложный</a>, <a href='#complex-domain' class="complex-domain-textColor">Комплексный</a>, <a href='#chaotic-domain' class="chaos-domain-textColor">Хаотический</a>, и <a href='#disorder-domain' class='disorder-domain-textColor'>Беспорядочный</a>.
+        Zaprojektowana, aby zapewnić dogłębne zrozumienie modelu Cynefin, oferuje graczom wciągające doświadczenie w podejmowaniu decyzji przez pryzmat pięciu dziedzin modelu Cynefin: <a href='#simple-domain' class="simple-domain-textColor">Prosta </a>, <a href='#complicated-domain' class="complicated-domain-textColor">Złożona</a>, <a href='#complex-domain' class="complex-domain-textColor">Kompleksowa</a>, <a href='#chaotic-domain' class="chaos-domain-textColor">Chaotyczna</a>, i <a href='#disorder-domain' class='disorder-domain-textColor'>Nieuporządkowana</a>.
+        <!-- Cозданна для глубокого понимания модели Cynefin, предлагает игрокам погрузиться в процесс принятия решений через призму пяти доменов модели Cynefin: <a href='#simple-domain' class="simple-domain-textColor">Простой</a>, <a href='#complicated-domain' class="complicated-domain-textColor">Сложный</a>, <a href='#complex-domain' class="complex-domain-textColor">Комплексный</a>, <a href='#chaotic-domain' class="chaos-domain-textColor">Хаотический</a>, и <a href='#disorder-domain' class='disorder-domain-textColor'>Беспорядочный</a>. -->
       </p>
       <div class="button--wrap button--wrap_center margin-top-40">
-        <a href="#about" class="button w-button">Об игре 🎲</a>
+        <a href="#about" class="button w-button">O grze 🎲</a>
 
         <div  class="playbutton_wrap ">
         <div  class="audio-player-button h-16">
           <div class="control-wrapper small">
             <a href='/app' target="_blank" class="no-underline play-wrapper is-grid">
               <img src="/images/player.svg"  alt="" class="h-8">
-              <span  class="textcolor_pink">Play the game!</span>
+              <span  class="textcolor_pink">Graj w grę!</span>
             </a>
           </div>
           <div class="background_pink background-hearit">

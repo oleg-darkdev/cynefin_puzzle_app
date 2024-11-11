@@ -6,7 +6,10 @@
   <div class="container">
     <div class="grid-2column">
       <div class="callout--wrap ">
-        <div id='author' class="callout textcolor_green">Автор проекта</div>
+        <div id='author' class="callout textcolor_green">
+          <!-- Автор проекта -->
+           Twórca projektu
+        </div>
         <!-- <img src="images/vector_about.svg" loading="lazy" alt="" class="about-asterisk"> -->
         <!-- cloud_about.svg -->
         <img src="images/vector_about.svg" loading="lazy" alt="" class="about-cloud">
@@ -15,8 +18,13 @@
         </div>
       </div>
       <div class="width-max-620">
-        <h2 class="">Привет! <br>
-          <a href='https://oleg-darkdev.vercel.app/' class='text-style-link' target="_blank" >Меня зовут - Олег </a>
+        <h2 class="">
+          Cześć!
+          <!-- Привет! -->
+          <br>
+          <span>
+            <!-- Меня зовут -  -->
+           Nazywam się  <a href='https://oleg-darkdev.vercel.app/' class='text-style-link' target="_blank" > oleg_darkDev </a></span>
         </h2>
         <p class="text-size-regular slideup-3 mb-4">
             Product Web Engineer-IT Enthusiast, Gamification Coach, and JavaScript Programmer with across various technologies, <span class="text-weight-bold"> years of experience in board game development and 3 years in web application development</span> including startups and open-source projects. See my open sorce projects are available on

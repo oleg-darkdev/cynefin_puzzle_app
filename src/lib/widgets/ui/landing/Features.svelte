@@ -5,7 +5,7 @@
 <div class="section">
   <div class="container">
     <div id='about' class="c-center_content">
-      <h2 class="margin-bottom-80">Lorem Ipsum is + simply dummy text = of the printing </h2>
+      <h2 class="margin-bottom-80">Cynefin puzzle + problem = właściwe rozwiązanie </h2>
     </div>
     <div class="grid-40">
       {#each features as {title, desc, img, brandColor}}

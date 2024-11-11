@@ -18,20 +18,21 @@
   </div>
   <div id="pagehead" class="container c-center_content">
     <div class="max-w-2xl center-text">
-      <h1>Открытый <br /> проект.</h1>
+      <!-- <h1>Открытый <br /> проект.</h1> -->
+      <h1>Otwarty <br />Projekt.</h1>
       <p class="margin-bottom-24 about_subtext">
-        Мы стремимся делиться накопленными знаниями с сообщество и сделали проекты открытым, исходный код доступен на <a href="https://github.com/oleg-darkdev/cynefin_app" target="_blank">github</a> .
+        Jesteśmy zaangażowani w dzielenie się zgromadzoną wiedzą ze społecznością i udostępniliśmy projekty open source, kod źródłowy jest dostępny <a href="https://github.com/oleg-darkdev/cynefin_app" target="_blank">github</a> .
       </p>
       <p class="margin-bottom-24 about_subtext">
         <!-- Кроме данной настольной игры, мы разработали много и других крутых интересных проектов, неполный список таких проектов доступен ниже: -->
-        Кроме данной настольной игры, мы разработали много и других крутых интересных проектов, неполный список таких проектов доступен по ссылке ниже.
-
+        <!-- Кроме данной настольной игры, мы разработали много и других крутых интересных проектов, неполный список таких проектов доступен по ссылке ниже. -->
+        Oprócz tej gry planszowej opracowaliśmy wiele innych ciekawych projektów, których częściowa lista dostępna jest pod poniższym linkiem.
       </p>
       <!-- <div class="margin-bottom-24 about_subtext">
 
       </div> -->
       <div class="button--wrap button--wrap_center">
-        <a href="/" class="button w-button">Полный список проектов 👉</a>
+        <a href="https://puzzle-management.vercel.app/" target="_blank" class="button w-button">Lista projektów 👉</a>
       </div>
     </div>
   </div>

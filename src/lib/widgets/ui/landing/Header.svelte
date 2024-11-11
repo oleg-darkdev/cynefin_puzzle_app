@@ -17,7 +17,8 @@
         {/each}
 
         <a href="/app" target="_blank" class="button button--dark button--dark-small w-button">
-          Начать игру
+          <!-- Начать игру -->
+           Początek gry
         </a>
         <div class="dropdown-menu-mobile w-dropdown">
           <nav class="dropdown-list-mobile w-dropdown-list">

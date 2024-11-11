@@ -1,22 +1,37 @@
 <script>
   const stats = [
-    {
+        {
       count: '97',
-      // модели кеневин
-      desc: 'Фреймворков и практик, для всех доменов: простого, сложного, комплексного и хаотичного доменов.'
+      desc: 'Frameworków i praktyk dla wszystkich domen modelu cynefin: prosty, złożony, kompleksowy i chaotycznychy.'
     },
     {
       count: '234',
-      desc: 'Ссылок на первоисточники для персонального изучения информации.'
+      desc: 'Odnośników do podstawowych źródeł w celu osobistego studiowania informacji.'
     },
     {
       count: '90',
-      desc: 'Минут игрового времени занимает одна партия.'
+      desc: 'Minut czasu gry zajmuje jedna rozgrywka.'
     },
     {
       count: '16',
-      desc: '16+ реккомендованый возраст для игроков.'
+      desc: 'Zalecany wiek graczy.'
     },
+    // {
+    //   count: '97',
+    //   desc: 'Фреймворков и практик, для всех доменов: простого, сложного, комплексного и хаотичного доменов.'
+    // },
+    // {
+    //   count: '234',
+    //   desc: 'Ссылок на первоисточники для персонального изучения информации.'
+    // },
+    // {
+    //   count: '90',
+    //   desc: 'Минут игрового времени занимает одна партия.'
+    // },
+    // {
+    //   count: '16',
+    //   desc: '16+ реккомендованый возраст для игроков.'
+    // },
   ]
 
 </script>
@@ -29,9 +44,12 @@
   </div>
 
   <div  class="width-max-510 center-tablet">
-    <div class="callout textcolor_green">В цифрах</div>
+    <!-- В цифрах -->
+    <div class="callout textcolor_green">
+      W liczbach
+    </div>
     <h3 class="margin-top-24 margin-bottom-24">
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      To nie tylko gra edukacyjna - to cała encyklopedia frameworków i praktyk stosowanych w zarządzaniu.
     </h3>
     <div class="content-bullet-items">
       {#each stats as {count, desc}}

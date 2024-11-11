@@ -1,22 +1,22 @@
 const navigation = [
   {
-    title: 'О игре',
+    title: 'O projekcie',
     link: '#about'
   },
   {
-    title: 'О доменах',
+    title: 'O domenach',
     link: '#domains'
   },
   {
-    title: 'Как начать',
+    title: 'Jak zacząć',
     link: '#how-to-start'
   },
+  // {
+  //   title: 'Цены',
+  //   link: '#price'
+  // },
   {
-    title: 'Цены',
-    link: '#price'
-  },
-  {
-    title: 'О авторе',
+    title: 'O autorze',
     link: '#author'
   },
   {
@@ -24,10 +24,41 @@ const navigation = [
     link: '#faq'
   },
   {
-    title: 'Статьи',
+    title: 'Artykuły',
     link: '#articles'
   },
 ];
+
+// const navigation = [
+//   {
+//     title: 'О игре',
+//     link: '#about'
+//   },
+//   {
+//     title: 'О доменах',
+//     link: '#domains'
+//   },
+//   {
+//     title: 'Как начать',
+//     link: '#how-to-start'
+//   },
+//   {
+//     title: 'Цены',
+//     link: '#price'
+//   },
+//   {
+//     title: 'О авторе',
+//     link: '#author'
+//   },
+//   {
+//     title: 'F.A.Q.',
+//     link: '#faq'
+//   },
+//   {
+//     title: 'Статьи',
+//     link: '#articles'
+//   },
+// ];
 
 
 export default navigation

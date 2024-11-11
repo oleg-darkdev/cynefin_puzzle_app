@@ -42,7 +42,8 @@ import bs from './frameworks/bs';
 const complicatedDomain = {
   domain: 'Сomplicated',
   anchor: 'complicated-domain',
-  shortDesc: 'В сложном (Complicated) домене модели Cynefin причинно-следственные связи присутствуют, но их не всегда легко распознать. Чтобы принять решение, требуется экспертиза и глубокий анализ. В отличие от простого домена, здесь нет "лучших практик", но есть "хорошие практики", которые могут быть адаптированы к каждой уникальной ситуации. Методы в этом домене требуют аналитического подхода и привлечения экспертов для нахождения правильного решения.',
+  shortDesc: 'W domenie Complicated modelu Cynefin związki przyczynowo-skutkowe są obecne, ale nie zawsze łatwe do rozpoznania. Podjęcie decyzji wymaga specjalistycznej wiedzy i dogłębnej analizy. W przeciwieństwie do domeny prostej, nie ma tu „najlepszych praktyk”, ale istnieją „dobre praktyki”, które można dostosować do każdej wyjątkowej sytuacji. Metody w tej dziedzinie wymagają analitycznego podejścia i zaangażowania ekspertów w celu znalezienia właściwego rozwiązania.',
+  // shortDesc: 'В сложном (Complicated) домене модели Cynefin причинно-следственные связи присутствуют, но их не всегда легко распознать. Чтобы принять решение, требуется экспертиза и глубокий анализ. В отличие от простого домена, здесь нет "лучших практик", но есть "хорошие практики", которые могут быть адаптированы к каждой уникальной ситуации. Методы в этом домене требуют аналитического подхода и привлечения экспертов для нахождения правильного решения.',
   desc: [
     '',
     '',

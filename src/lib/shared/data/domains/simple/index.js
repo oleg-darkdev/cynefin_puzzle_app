@@ -32,6 +32,7 @@ const simpleDomain = {
   domain: 'Simple',
   anchor: 'simple-domain',
   shortDesc: 'В простом или очевидном домене (Clear/Obvious/Simple) модели Cynefin управляемые задачи характеризуются прямой и легко идентифицируемой связью между причиной и следствием. В этом домене задачи являются рутинными и предсказуемыми, и для их решения применяются стандартные подходы, проверенные временем.',
+  shortDesc: 'W prostej lub oczywistej domenie (Clear/Obvious/Simple) modelu Cynefin, możliwe do zarządzania zadania charakteryzują się bezpośrednim i łatwym do zidentyfikowania powiązaniem między przyczyną a skutkiem. W tej domenie zadania są rutynowe i przewidywalne, a do ich rozwiązywania stosuje się sprawdzone, ustandaryzowane podejścia.',
   desc: [
     '',
     '',
