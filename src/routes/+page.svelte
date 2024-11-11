@@ -22,7 +22,8 @@
 <Features />
 
 <section class="section padding-top-104">
-  <HowItWork />
+  <!-- <HowItWork /> -->
+
   <div class="container">
     <Stats />
 
@@ -41,9 +42,9 @@
 
 <!-- <TagsCloud /> -->
 
-<PricingCta />
+<!-- <PricingCta /> -->
 
-<Price />
+<!-- <Price /> -->
 
 <OpensourceBlock />
 
@@ -59,9 +60,9 @@
 
 <Cta />
 
-<ArticlesDivider />
+<!-- <ArticlesDivider /> -->
 
-<Articles />
+<!-- <Articles /> -->
 
 <Footer />
 
