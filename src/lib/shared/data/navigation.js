@@ -23,10 +23,10 @@ const navigation = [
     title: 'F.A.Q.',
     link: '#faq'
   },
-  {
-    title: 'Artykuły',
-    link: '#articles'
-  },
+  // {
+  //   title: 'Artykuły',
+  //   link: '#articles'
+  // },
 ];
 
 // const navigation = [
